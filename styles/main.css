@@ -1,0 +1,33 @@
+section{
+    display: flex;
+    
+}
+div{
+    margin-right: 10px;
+    font: 1.2rem "Fira Sans", sans-serif;
+}
+
+.blackcard {
+    color: black;
+    background-color: rgb(188, 196, 202);
+    width: 50px;
+    font-size: 25px;
+    text-align: center;
+}
+.redcard {
+    color: rgb(255, 0, 0);
+    background-color: rgb(188, 196, 202);
+    width: 50px;
+    font-size: 25px;
+    text-align: center;
+}
+h1{
+    font-size: 10px;
+    font-weight: normal;
+    font: 1.2rem "Fira Sans", sans-serif;
+}
+h2{
+    font-size: 10px;
+    font-weight: normal;
+    font: 1.2rem "Fira Sans", sans-serif;
+}
